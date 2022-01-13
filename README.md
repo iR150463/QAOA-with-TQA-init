@@ -14,7 +14,7 @@
 
   - TQAinit.ipynb
 
-    QAOA souce code from referenced
+    QAOA souce code from reference (Quantum annealing initialization of the quantum approximate optimization algorithm)
 
 - **references**
 
